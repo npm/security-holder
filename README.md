@@ -1,9 +1,5 @@
 # Security holding package
 
-This package name is not currently in use, but was formerly occupied
-by another package. To avoid malicious use, npm is hanging on to the
-package name, but loosely, and we'll probably give it to you if you
-want it.
+This package contained malicious code and was removed from the registry by the npm security team. A placeholder was published to ensure users are not affected in the future.
 
-You may adopt this package by contacting support@npmjs.com and
-requesting the name.
+Please refer to npmjs.com/advisories?search=<package-name> for more information.
