@@ -1,5 +1,5 @@
 # Security holding package
 
-This package contained malicious code and was removed from the registry by the npm security team. A placeholder was published to ensure users are not affected in the future.
+This package tricked users into installing it by mimicking a popular package of similar name, in a technique known as typosquatting. The npm Security team removed the package from the registry.
 
-Please refer to www.npmjs.com/advisories?search={package-name} for more information.
+If you believe this package should not have been removed please reach out to security@npmjs.com.
