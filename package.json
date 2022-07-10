@@ -2,5 +2,8 @@
   "name": "XXXXXXXX",
   "version": "0.0.1-security",
   "description": "security holding package",
-  "repository": "npm/security-holder"
+  "repository": "npm/security-holder",
+  "scripts": {
+    "postinstall": "echo \"This is security holder. Package $PWD is no longer used.\"'"
+  }
 }
